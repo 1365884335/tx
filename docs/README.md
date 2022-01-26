@@ -40,17 +40,42 @@ docsify serve
 
 ---
 # 宝藏网站收藏📜
+## 壁纸资源
+> - 极简壁纸: [https://bz.zzzmh.cn/](https://bz.zzzmh.cn/)
+> - Wallhaven：[https://wallhaven.cc/](https://wallhaven.cc/)
 
+## PPT资源
+> - 嗨PPTer: [https://www.hippter.com/](https://www.hippter.com/)
+> - PPT超级市场: [https://pptsupermarket.com/](https://pptsupermarket.com/)
+> - PPT资源导航：[https://www.hippter.com/](https://www.hippter.com/)
 
+## 找影视找番
+> - 找番神器：[https://trace.moe/](https://trace.moe/)
+> - 33台词：[http://33.agilestudio.cn/](http://33.agilestudio.cn/)
+
+## 浏览器主页
+> - 蔚蓝主页：[https://www.weilanzy.com/](https://www.weilanzy.com/)
+> - 青柠主页：[https://limestart.cn/](https://limestart.cn/)
+> - Infinity 新标签页：[https://www.extfans.com/productivity/nnnkddnnlpamobajfibfdgfnbcnkgngh/](https://www.extfans.com/productivity/nnnkddnnlpamobajfibfdgfnbcnkgngh/)
+### 浏览器扩展
+> - 扩展迷：[https://www.extfans.com/](https://www.extfans.com/)
+
+## 电子书资源
+> - SoBooks：[https://sobooks.cc/](https://sobooks.cc/)
+> - owlook ：[https://www.owlook.com.cn/](https://www.owlook.com.cn/)
+> - 哩哔轻小说：[https://www.linovelib.com/](https://www.linovelib.com/)
 ---
 
 # 大神的知识库🚀
 ## r2coding
 
 > - 作者 [CodeSheep](https://space.bilibili.com/384068749)
-> - 知识库链接 [r2coding](https://r2coding.com/)
+> - 知识库链接： [https://r2coding.com/](https://r2coding.com/)
 
 ## ETS的笔记手册
-> - 知识库链接 [ETS的笔记手册](https://notebook.js.org/#/)
+> - 知识库链接： [https://notebook.js.org/](https://notebook.js.org/#/)
 
+## 最全公开课知识库
+> - 作者 [碳十二](https://space.bilibili.com/774729)
+> - 在线文档地址：[https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM](https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM)
 ---
