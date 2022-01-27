@@ -10,6 +10,7 @@
 <link rel="icon" href="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/favicon.ico">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/css/vue.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/css/style.css">
+
 </head>
 
 <body>
@@ -44,13 +45,56 @@ window.$docsify ={
       },
                  }
 </script>
-<!-- <script src="//cdn.jsdelivr.net/gh/justacoder99/r2coding@master/js/index.js"></script> 深色模式 -->
+
+<script src="//cdn.jsdelivr.net/gh/justacoder99/r2coding@master/js/index.js"></script> <!-- 深色模式 -->
 <script src="//cdn.jsdelivr.net/gh/justacoder99/r2coding@master/js/docsify@4.js"></script> <!-- *首页 -->
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script> <!-- 表情 emoji -->
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script> <!-- 图片缩放 Zoom image -->
-<script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script> <!-- 复制到剪贴板 -->
+<script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script> <!-- 复制代码 -->
 <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script> <!-- bash 代码高亮 -->
 <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script> <!-- PHP 代码高亮 -->
-
+<!-- 回到顶部功能 -->
+<script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/jquery.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/jquery.goup.js"></script>
+<script type="text/javascript">
+  $(document).ready(function () {
+    $.goup({
+      trigger: 100,
+      bottomOffset: 52,
+      locationOffset: 25,
+      //title: 'TOP',
+      titleAsText: true
+    });
+  });
+</script>
+<!-- 回到顶部功能 -->
+<!-- 小萝莉模型 -->
+<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
+<script>
+  L2Dwidget.init({
+    "model": {
+      //jsonpath控制显示那个小萝莉模型，
+      //(切换模型需要改动)
+      jsonPath: "https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json",
+      "scale": 1
+    },
+    "display": {
+      "position": "right", //看板娘的表现位置
+      "width": 70,  //小萝莉的宽度
+      "height": 140, //小萝莉的高度
+      "hOffset": 35,
+      "vOffset": -20
+    },
+    "mobile": {
+      "show": true,
+      "scale": 0.5
+    },
+    "react": {
+      "opacityDefault": 0.7,
+      "opacityOnHover": 0.2
+    }
+  });
+</script>
+<!-- 小萝莉模型 -->
 </body>
 </html>
