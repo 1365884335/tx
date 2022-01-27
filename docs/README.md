@@ -44,16 +44,36 @@ docsify serve
 > - 极简壁纸: [https://bz.zzzmh.cn/](https://bz.zzzmh.cn/)
 > - Wallhaven：[https://wallhaven.cc/](https://wallhaven.cc/)
 
+## 字体资源
+> - 字体家：[https://www.zitijia.com/](https://www.zitijia.com/)
+> - 字魂：[https://www.izihun.com/](https://www.izihun.com/)
+> - iFonts字体：[https://ifonts.com/](https://ifonts.com/)
+> - 求字体网：[https://www.qiuziti.com/](https://www.qiuziti.com/)
+> - 免版权字体网：[https://www.100font.com/](https://www.100font.com/)
+
 ## PPT资源
 > - 嗨PPTer: [https://www.hippter.com/](https://www.hippter.com/)
 > - PPT超级市场: [https://pptsupermarket.com/](https://pptsupermarket.com/)
 > - PPT资源导航：[https://www.hippter.com/](https://www.hippter.com/)
 
+## 图片设计素材库
+> - Pexels：[https://www.pexels.com/](https://www.pexels.com/)
+> - 站酷：[https://www.zcool.com.cn/](https://www.zcool.com.cn/)
+> - 众图网：[https://www.ztupic.com/](https://www.ztupic.com/)
+> - 模库网：[https://www.mcool.com/](https://www.mcool.com/)
+> - 集设网：[http://www.ijishe.com/](http://www.ijishe.com/)
+
+## UI设计灵感库
+> - 设计邦：[http://www.designboom.cn/](http://www.designboom.cn/)
+> - 设计癖：[https://www.shejipi.com/](https://www.shejipi.com/)
+> - 古田路9号：[https://www.gtn9.com/](https://www.gtn9.com/)
+> - 明日志：[http://www.mottimes.com/](http://www.mottimes.com/)
+
 ## 找影视找番
 > - 找番神器：[https://trace.moe/](https://trace.moe/)
 > - 33台词：[http://33.agilestudio.cn/](http://33.agilestudio.cn/)
 
-## 浏览器主页
+## 浏览器相关
 > - 蔚蓝主页：[https://www.weilanzy.com/](https://www.weilanzy.com/)
 > - 青柠主页：[https://limestart.cn/](https://limestart.cn/)
 > - Infinity 新标签页：[https://www.extfans.com/productivity/nnnkddnnlpamobajfibfdgfnbcnkgngh/](https://www.extfans.com/productivity/nnnkddnnlpamobajfibfdgfnbcnkgngh/)
