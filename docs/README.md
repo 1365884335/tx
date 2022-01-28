@@ -69,11 +69,18 @@ docsify serve
 > - 古田路9号：[https://www.gtn9.com/](https://www.gtn9.com/)
 > - 明日志：[http://www.mottimes.com/](http://www.mottimes.com/)
 
+## 视频资源
+> - 片库：[https://www.pkmp4.com/](https://www.pkmp4.com/)
+> - 樱花动漫：[http://www.imomoe.live/](http://www.imomoe.live/)
+> - 美剧网：[https://mjhd.tv/](https://mjhd.tv/)
+> - 独播库：[https://u.duboku.vip/](https://u.duboku.vip/)
+
 ## 找影视找番
 > - 找番神器：[https://trace.moe/](https://trace.moe/)
 > - 33台词：[http://33.agilestudio.cn/](http://33.agilestudio.cn/)
 
 ## 浏览器相关
+### 浏览器主页
 > - 蔚蓝主页：[https://www.weilanzy.com/](https://www.weilanzy.com/)
 > - 青柠主页：[https://limestart.cn/](https://limestart.cn/)
 > - Infinity 新标签页：[https://www.extfans.com/productivity/nnnkddnnlpamobajfibfdgfnbcnkgngh/](https://www.extfans.com/productivity/nnnkddnnlpamobajfibfdgfnbcnkgngh/)
@@ -87,13 +94,13 @@ docsify serve
 ---
 
 # 大神的知识库🚀
+## ETS的笔记手册
+> - 知识库链接： [https://notebook.js.org/](https://notebook.js.org/#/)
+
 ## r2coding
 
 > - 作者 [CodeSheep](https://space.bilibili.com/384068749)
 > - 知识库链接： [https://r2coding.com/](https://r2coding.com/)
-
-## ETS的笔记手册
-> - 知识库链接： [https://notebook.js.org/](https://notebook.js.org/#/)
 
 ## 最全公开课知识库
 > - 作者 [碳十二](https://space.bilibili.com/774729)
