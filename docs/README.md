@@ -69,6 +69,43 @@ docsify serve
 > - 古田路9号：[https://www.gtn9.com/](https://www.gtn9.com/)
 > - 明日志：[http://www.mottimes.com/](http://www.mottimes.com/)
 
+## 学习网站
+> - oeasy：[http://www.oeasy.org/](http://www.oeasy.org/)
+> - edx：[https://adxsales.com/cn#services](https://adxsales.com/cn#services)
+> - 学堂在线：[https://www.xuetangx.com/](https://www.xuetangx.com/)
+> - coursera：[https://www.coursera.org/](https://www.coursera.org/)
+> - eslbuzz：[http://www.eslbuzz.com/](http://www.eslbuzz.com/)
+> - 大学资源网：[http://m.dxzy163.com/](http://m.dxzy163.com/)
+> - 田间小站(高级英语学习)：[https://www.tjxz.cc/](https://www.tjxz.cc/)
+
+## 作图工具网站
+> - 云图三维（线上三维建模）：[https://www.yuntucad.com/](https://www.yuntucad.com/)
+### 思维导图类
+> - 知犀：[https://www.zhixi.com/](https://www.zhixi.com/)
+> - 幕布：[https://mubu.com/](https://mubu.com/)
+> - GitMind：[https://gitmind.cn/](https://gitmind.cn/)
+> - 百度脑图：[https://naotu.baidu.com/](https://naotu.baidu.com/)
+> - zhiMap：[https://zhimap.com/](https://zhimap.com/)
+### 流程图类
+> - drawio：[https://app.diagrams.net/](https://app.diagrams.net/)
+> - ProcessOn：[https://www.processon.com/](https://www.processon.com/)
+> - ioDaw：[https://www.iodraw.com/](https://www.iodraw.com/)
+
+## 图片处理工具
+### 抠图类
+> - 佐糖（自动）：[https://picwish.cn/](https://picwish.cn/)
+> - REMOVEBG（自动）：[https://www.remove.bg/zh](https://www.remove.bg/zh)
+> - 皮卡智能（自动）：[https://www.picup.shop/](https://www.picup.shop/)
+> - 速抠图（手动）：[https://www.sukoutu.com/](https://www.sukoutu.com/)
+### 人工智能类
+> - 图片放大（插画效果更好）：[https://bigjpg.com/](https://bigjpg.com/)
+> - 图像修复：[https://www.fixmyphoto.ai/](https://www.fixmyphoto.ai/)
+> - Inpaint Online ：[https://theinpaint.com/](https://theinpaint.com/)
+> - 老照片无损修复：[https://jpghd.com/](https://jpghd.com/)
+> - 画上色：[https://petalica-paint.pixiv.dev/index_zh.html](https://petalica-paint.pixiv.dev/index_zh.html)
+### 其他
+> - 压力巨大（图片压缩）：[https://www.yalijuda.com/](https://www.yalijuda.com/)
+
 ## 视频资源
 > - 片库：[https://www.pkmp4.com/](https://www.pkmp4.com/)
 > - 樱花动漫：[http://www.imomoe.live/](http://www.imomoe.live/)
@@ -76,7 +113,7 @@ docsify serve
 > - 独播库：[https://u.duboku.vip/](https://u.duboku.vip/)
 
 ## 找影视找番
-> - 找番神器：[https://trace.moe/](https://trace.moe/)
+> - 以图搜番：[https://trace.moe/ ](https://trace.moe/)
 > - 33台词：[http://33.agilestudio.cn/](http://33.agilestudio.cn/)
 
 ## 浏览器相关
