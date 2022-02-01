@@ -40,6 +40,8 @@ docsify serve
 
 ---
 # 宝藏网站收藏📜
+
+
 ## 壁纸资源
 > - 极简壁纸: [https://bz.zzzmh.cn/](https://bz.zzzmh.cn/)
 > - Wallhaven：[https://wallhaven.cc/](https://wallhaven.cc/)
@@ -77,6 +79,7 @@ docsify serve
 > - eslbuzz：[http://www.eslbuzz.com/](http://www.eslbuzz.com/)
 > - 大学资源网：[http://m.dxzy163.com/](http://m.dxzy163.com/)
 > - 田间小站(高级英语学习)：[https://www.tjxz.cc/](https://www.tjxz.cc/)
+> - 一席：[https://yixi.tv/#/home](https://yixi.tv/#/home)
 
 ## 作图工具网站
 > - 云图三维（线上三维建模）：[https://www.yuntucad.com/](https://www.yuntucad.com/)
@@ -90,6 +93,10 @@ docsify serve
 > - drawio：[https://app.diagrams.net/](https://app.diagrams.net/)
 > - ProcessOn：[https://www.processon.com/](https://www.processon.com/)
 > - ioDaw：[https://www.iodraw.com/](https://www.iodraw.com/)
+
+## 视频处理
+### 片头特效资源
+Pazoid：[https://panzoid.com/](https://panzoid.com/)
 
 ## 图片处理工具
 ### 抠图类
@@ -128,6 +135,10 @@ docsify serve
 > - SoBooks：[https://sobooks.cc/](https://sobooks.cc/)
 > - owlook ：[https://www.owlook.com.cn/](https://www.owlook.com.cn/)
 > - 哩哔轻小说：[https://www.linovelib.com/](https://www.linovelib.com/)
+
+## 聚合网站分享
+> - 今日热搜：[https://tophub.today/](https://tophub.today/)
+
 ---
 
 # 大神的知识库🚀
