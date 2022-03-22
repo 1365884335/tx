@@ -65,7 +65,7 @@ public class Test{
 	}
 }
 ```
-
+![编译执行原理](https://www.txwl.vip/课堂笔记/头文件.jpg)
 ​			创建文件		.java
 
 ​			class
