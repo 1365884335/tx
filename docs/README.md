@@ -82,7 +82,7 @@ public class Test{
 
 ### 2)	程序执行的原理
 
-![编译执行原理](C:\Users\Duyi Education\Desktop\新版引流课笔记\编译执行原理.jpg)首先补充几个dos指令
+![编译执行原理](\课堂笔记\编译执行原理.jpg)首先补充几个dos指令
 
 ​	切换盘符    盘符名   d: 回车
 
@@ -856,7 +856,7 @@ class TestBreak{
 
 ​			int[] y = new int[]{10,20,30,40,50};
 
-<img src="C:\Users\Duyi Education\Desktop\新版引流课笔记\数组的存储原理.jpg" alt="数组的存储原理" style="zoom:50%;" />
+<img src="\课堂笔记\数组的存储原理.jpg" alt="数组的存储原理" style="zoom:50%;" />
 
 ## 	2.数组的语法		
 
@@ -960,7 +960,7 @@ public class DmcStore{
 
 ​			数组创建，如何访问元素，如何遍历
 
-<img src="C:\Users\Duyi Education\Desktop\新版引流课笔记\二维数组的存储原理.jpg" style="zoom:50%;" />
+<img src="\课堂笔记\二维数组的存储原理.jpg" style="zoom:50%;" />
 
 ## 	6.多维数组的语法
 
@@ -972,11 +972,11 @@ public class DmcStore{
 
 ​							int[] [] array = new int[3] [2];
 
-​							                  <img src="C:\Users\Duyi Education\Desktop\新版引流课笔记\二维数组new[3][2].png" style="zoom:50%;" />
+​							                  <img src="\课堂笔记\二维数组new[3][2].png" style="zoom:50%;" />
 
 ​							int[] [] array = new int[3] [];
 
-<img src="C:\Users\Duyi Education\Desktop\新版引流课笔记\二维数组new[3][].png" style="zoom:50%;" />
+<img src="\课堂笔记\二维数组new[3][].png" style="zoom:50%;" />
 
 ​		2.如何访问元素----通过索引位置
 
