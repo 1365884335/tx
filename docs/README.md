@@ -1,4 +1,4 @@
-#  零、docsify 知识库
+#  docsify 知识库 部署
 官方文档 [docsify](https://docsify.js.org/#/zh-cn/quickstart)
 ## 需要环境
 > 安装 [nodejs](https://nodejs.org/en/)
@@ -36,9 +36,11 @@ docsify serve
 > - *请保留  **.nojekyll** 文件 （用于阻止 GitHub Pages 会忽略掉下划线开头的文件）
 > - *详细参考 [docsify + Github Pages 教程](https://blog.csdn.net/m0_37965018/article/details/103841362)
 
-#  一、Java初识
+# 学习java
 
-## 	1.Java是什么
+##  一、Java初识
+
+### 	1.Java是什么
 
 ​		一门高级的**计算机**编程**语言**
 
@@ -54,9 +56,9 @@ docsify serve
 
 
 
-## 	2.第一个计算机指令
+### 	2.第一个计算机指令
 
-### 1）Java源文件
+#### 1）Java源文件
 
 ```java
 public class Test{
@@ -81,7 +83,7 @@ public class Test{
 
 ​					其他文字		中文/日文-----强烈不推荐   当做**不**可以
 
-### 2)	程序执行的原理
+#### 2)	程序执行的原理
 
 ![编译执行原理](https://www.txwl.vip/课堂笔记/编译执行原理.jpg)首先补充几个dos指令
 
@@ -99,7 +101,7 @@ public class Test{
 
 ​				方式二，我们修改了记事本中自己的字符集(ANSI--->windows)
 
-### 3）一个用于计算的小程序
+#### 3）一个用于计算的小程序
 
 ```java
 import java.util.*;
@@ -131,7 +133,7 @@ class Calculation{
 }
 ```
 
-### 4）基于窗口的计算器程序
+#### 4）基于窗口的计算器程序
 
 ```java
 import javax.swing.*;
@@ -186,9 +188,9 @@ class TestFrame{
 
 
 
-# 二、Java语法结构及各种概念
+## 二、Java语法结构及各种概念
 
-## 1.变量，常量
+### 1.变量，常量
 
 ​	变量(空间)，容器(装东西)
 
